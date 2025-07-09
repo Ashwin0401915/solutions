@@ -1,5 +1,5 @@
-password =Ashwin@123
- secret code = ydgiysygiuzbcusucnc
+password = "zxcvbnm@123"
+secret code = "ydgiysygiuzbcusucnc"
 API_KEY = "sk-test-123456"
 
 
